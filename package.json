@@ -1,0 +1,56 @@
+{
+  "_args": [
+    [
+      "git://github.com/madhurmate/react-native-picker-android.git#f85d529",
+      "/Users/mamate/IdeaProjects/member_mobile_update"
+    ]
+  ],
+  "_from": "git://github.com/madhurmate/react-native-picker-android.git#f85d529",
+  "_id": "react-native-picker-android@git://github.com/madhurmate/react-native-picker-android.git#f85d5294e2927b4ab5fd79e661aa16425d92f676",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-picker-android",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git://github.com/madhurmate/react-native-picker-android.git#f85d529",
+    "rawSpec": "git://github.com/madhurmate/react-native-picker-android.git#f85d529",
+    "saveSpec": "git://github.com/madhurmate/react-native-picker-android.git#f85d529",
+    "fetchSpec": "git://github.com/madhurmate/react-native-picker-android.git",
+    "gitCommittish": "f85d529"
+  },
+  "_requiredBy": [
+    "/react-native-picker"
+  ],
+  "_resolved": "git://github.com/madhurmate/react-native-picker-android.git#f85d5294e2927b4ab5fd79e661aa16425d92f676",
+  "_spec": "git://github.com/madhurmate/react-native-picker-android.git#f85d529",
+  "_where": "/Users/mamate/IdeaProjects/member_mobile_update",
+  "author": {
+    "name": "rsk",
+    "email": "rsk_rsk@163.com"
+  },
+  "bugs": {
+    "url": "https://github.com/beefe/react-native-picker-android/issues"
+  },
+  "description": "react-native-picker-android",
+  "engines": {
+    "node": ">=4"
+  },
+  "homepage": "https://github.com/beefe/react-native-picker-android#readme",
+  "keywords": [
+    "react-native",
+    "android",
+    "picker"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-picker-android",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beefe/react-native-picker-android.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}
